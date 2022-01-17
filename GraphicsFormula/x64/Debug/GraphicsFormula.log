@@ -1,0 +1,4 @@
+﻿  Main.cpp
+D:\HOPE UNIVERSITY\Second year\CSC core\OOSD\Coursework\GraphicsFormula\GraphicsFormula\Main.cpp(9,17): error C2065: 'GFLW_CONTEXT_VERSION_MAJOR': undeclared identifier
+D:\HOPE UNIVERSITY\Second year\CSC core\OOSD\Coursework\GraphicsFormula\GraphicsFormula\Main.cpp(10,17): error C2065: 'GFLW_CONTEXT_VERSION_MINOR': undeclared identifier
+D:\HOPE UNIVERSITY\Second year\CSC core\OOSD\Coursework\GraphicsFormula\GraphicsFormula\Main.cpp(11,17): error C2065: 'GFLW_OPENGL_PROFILE': undeclared identifier
